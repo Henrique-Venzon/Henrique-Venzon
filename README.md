@@ -13,13 +13,12 @@
 
 - Aprendendo:
 
-[![Aprendendo](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
 [![Aprendendo](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
 [![Aprendendo](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
 [![Aprendendo](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
 
 <div align="left">
   <a href="https://github.com/Henrique-Venzon">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Szaiago&show_icons=true&theme=midnight-purple"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szaiago&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Venzon&show_icons=true&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Venzon&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
