@@ -20,7 +20,6 @@
 [![Aprendendo](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
 [![Aprendendo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
 
-
 <div align="left">
   <a href="https://github.com/Henrique-Venzon">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Venzon&show_icons=true&theme=midnight-purple"/>
