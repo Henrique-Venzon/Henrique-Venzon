@@ -11,7 +11,7 @@
 [![Contato](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/henriquevenzon_/)
 [![Contato](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/henrique-venzon)
 
-- Aprendendo:
+- Aprendendo: 
 
 [![Aprendendo](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
 [![Aprendendo](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
