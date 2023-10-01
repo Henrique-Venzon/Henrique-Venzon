@@ -22,6 +22,6 @@
 
 <div align="left">
   <a href="https://github.com/Henrique-Venzon">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Venzon&show_icons=true&theme=dark-purple"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Venzon&layout=compact&langs_count=7&theme=dark-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Venzon&show_icons=true&theme=day-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Venzon&layout=compact&langs_count=7&theme=day-purple"/>
 </div>
