@@ -2,7 +2,7 @@
 
  - ‍ Sobre mim:
 
-   Sou aluno da Escola S de Itajaí curso Técnico de Desenvolvimento de Sistemas, tenho 16 anos.
+   Sou aluno da Escola S de Itajaí curso Técnico de Desenvolvimento de Sistemas, tenho 17 anos.
 
    -  Contato:
 
