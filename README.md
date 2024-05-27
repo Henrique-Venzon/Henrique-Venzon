@@ -8,7 +8,7 @@
 
 -Contate-me: venzonhenriquef@gamail.com
 
-(https://link-bio-alpha.vercel.app/)
+-Meus links -> https://link-bio-alpha.vercel.app/
 
 
 - Hard Skills:
