@@ -2,13 +2,15 @@
 
  - ‍ Sobre mim:
 
-   Sou aluno da Escola S de Itajaí curso Técnico de Desenvolvimento de Sistemas, tenho 17 anos.
+   Sou aluno da Escola Sesi de Itajaí, curso Técnico de Desenvolvimento de Sistemas SENAI, tenho 17 anos.
 
    -  Contato:
 
 -Contate-me: venzonhenriquef@gamail.com
 
 -Meus links -> https://link-bio-alpha.vercel.app/
+
+-Meu Portifólio -> https://portifolio-ecru-alpha.vercel.app/
 
 
 - Hard Skills:
