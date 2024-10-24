@@ -10,7 +10,7 @@
 
 -Meus links -> https://link-bio-alpha.vercel.app/
 
--Meu Portifólio -> https://portifolio-cc6rnpkn9-henriques-projects-161a756d.vercel.app
+-Meu Portifólio -> https://portfolio-venzon.vercel.app/
 
 
 - Hard Skills:
