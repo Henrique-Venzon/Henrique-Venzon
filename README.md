@@ -26,6 +26,11 @@
 
 [![Aprendendo](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
 [![Aprendendo](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://https://www.youtube.com/watch?v=TsaLQAetPLU)
+[![Aprendendo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Aprendendo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
+
+
 
 <div align="left">
   <a href="https://github.com/Henrique-Venzon">
