@@ -2,7 +2,7 @@
 
  - ‍ Sobre mim:
 
-   Sou aluno da Escola Sesi de Itajaí, curso Técnico de Desenvolvimento de Sistemas SENAI, tenho 17 anos.
+   Henrique Francisco Venzon, 18 anos, moro em Itajaí/SC. Estudante de Engenharia de Softwar. Com formação técnica em Desenvolvimento de Sistemas pelo SENAI,
 
 
 -Contate-me: venzonhenriquef@gamail.com
